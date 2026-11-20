@@ -1,0 +1,7 @@
+boto3>=1.35.0
+s3fs>=2024.10.0
+pyiceberg[s3fs,sql-sqlite]>=0.8.0
+duckdb>=1.1.0
+pandera>=0.20.0
+pandas>=2.2.0
+pyarrow>=18.0.0
